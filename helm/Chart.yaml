@@ -1,6 +1,15 @@
 apiVersion: v2
-name: helm
+name: hello-go
 description: A Helm chart for Kubernetes
+home: https://github.com/AnujAroshA/hello-go
+keywords:
+- hello-go
+- go-server
+maintainers:
+- email: anuja_ict@yahoo.com
+  name: AnujAroshA
+sources:
+- https://github.com/AnujAroshA/hello-go
 
 # A chart can be either an 'application' or a 'library' chart.
 #
@@ -21,4 +30,4 @@ version: 0.1.0
 # incremented each time you make changes to the application. Versions are not expected to
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
-appVersion: "1.16.0"
+appVersion: "1.0.0"
