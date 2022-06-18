@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AnujAroshA/hello-go
 
 This is a basic Helm chart to understand and teach the connection of following components
 
