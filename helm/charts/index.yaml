@@ -3,7 +3,26 @@ entries:
   hello-go:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-06-18T16:21:50.197791+05:30"
+    created: "2022-06-21T10:25:21.457626+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a3690aee5bdb9b112a5c764d7c102d197f5c57691130a1550b576f33f45c7e2c
+    home: https://github.com/AnujAroshA/hello-go
+    keywords:
+    - hello-go
+    - go-server
+    maintainers:
+    - email: anuja_ict@yahoo.com
+      name: AnujAroshA
+    name: hello-go
+    sources:
+    - https://github.com/AnujAroshA/hello-go
+    type: application
+    urls:
+    - hello-go-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-21T10:25:21.453686+05:30"
     description: A Helm chart for Kubernetes
     digest: a57347f90fc7113fe48094f782ef1d827dcfb5e7404c44acba23e2701da355e2
     home: https://github.com/AnujAroshA/hello-go
@@ -20,4 +39,4 @@ entries:
     urls:
     - hello-go-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-18T16:21:50.186753+05:30"
+generated: "2022-06-21T10:25:21.452785+05:30"
