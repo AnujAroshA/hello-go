@@ -3,7 +3,26 @@ entries:
   hello-go:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-06-21T12:44:28.636105+05:30"
+    created: "2022-06-23T10:42:42.014596+05:30"
+    description: A Helm chart for Kubernetes. This will deploy a simple Go server.
+    digest: 0d0b858a0229abe148c711db3f30eb7d322f38572d5383352f7f51b879c4db92
+    home: https://github.com/AnujAroshA/hello-go
+    keywords:
+    - hello-go
+    - go-server
+    maintainers:
+    - email: anuja_ict@yahoo.com
+      name: AnujAroshA
+    name: hello-go
+    sources:
+    - https://github.com/AnujAroshA/hello-go
+    type: application
+    urls:
+    - hello-go-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-23T10:42:42.013678+05:30"
     description: A Helm chart for Kubernetes. This will deploy a simple Go server.
     digest: 6601908db09328a036e46c77bdf40af044c86677d13087df4bc7833786aa2370
     home: https://github.com/AnujAroshA/hello-go
@@ -22,7 +41,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-06-21T12:44:28.633379+05:30"
+    created: "2022-06-23T10:42:42.007991+05:30"
     description: A Helm chart for Kubernetes
     digest: 1989cc9dd433b14a1b6a6e9a46e1c766d9d53aae6822a744463261fff850b90b
     home: https://github.com/AnujAroshA/hello-go
@@ -41,7 +60,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-06-21T12:44:28.631968+05:30"
+    created: "2022-06-23T10:42:42.005955+05:30"
     description: A Helm chart for Kubernetes
     digest: a3690aee5bdb9b112a5c764d7c102d197f5c57691130a1550b576f33f45c7e2c
     home: https://github.com/AnujAroshA/hello-go
@@ -60,7 +79,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-06-21T12:44:28.631093+05:30"
+    created: "2022-06-23T10:42:42.004685+05:30"
     description: A Helm chart for Kubernetes
     digest: a57347f90fc7113fe48094f782ef1d827dcfb5e7404c44acba23e2701da355e2
     home: https://github.com/AnujAroshA/hello-go
@@ -77,4 +96,4 @@ entries:
     urls:
     - hello-go-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-21T12:44:28.630194+05:30"
+generated: "2022-06-23T10:42:42.003373+05:30"
