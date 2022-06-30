@@ -9,7 +9,13 @@ This is a basic Helm chart to understand and teach the connection of following c
 ### How to use
 
 ```markdown
-helm repo add hello-go https://anujarosha.github.io/hello-go/helm/charts
-helm repo update
+# Can confirm repo is added
 helm repo list
+
+# Update the repo if you have already added it
+helm repo update
 ```
+
+As per now, only endpoints that you can check are `/hi` and `/hello`
+
+Ex. http://localhost:8081/hi
